@@ -3,11 +3,12 @@
 ## Services
 
 
-| Type  | Provider | Repos configured |
+| Provider  | Type | Repos configured |
 | ------------- | ------------- | ------------- |
-| Code analysis  | [Sonarcloud](https://sonarcloud.io/projects) | kentico, market-view-ui  |
-| Issue tracking  | Sentry |   |
-| Issue tracking  | Rollbar (deprecating in favor of Sentry) |   |
-| Visual testing  | Percy/Browserstack |  |
-| File hosting  | Amazon S3 |  |
-| CDN  | Amazon CloudFront |  |
+| [Sonarcloud](https://sonarcloud.io/projects)  | Code analysis  | kentico, market-view-ui  |
+| Sentry  |  Issue tracking|   |
+| Rollbar (deprecating in favor of Sentry)   | Issue tracking  |  market-view-api |
+| Percy/Browserstack | Visual testing | market-view-ui |
+| Amazon S3  |  File hosting | market-view-api |
+| Amazon CloudFront  | CDN | market-view-ui  |
+
