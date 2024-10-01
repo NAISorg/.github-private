@@ -9,3 +9,5 @@
 | Issue tracking  | Sentry |   |
 | Issue tracking  | Rollbar (deprecating in favor of Sentry) |   |
 | Visual testing  | Percy/Browserstack |  |
+| File hosting  | Amazon S3 |  |
+| CDN  | Amazon CloudFront |  |
