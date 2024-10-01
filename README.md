@@ -8,6 +8,7 @@
 | Amazon CloudFront  | CDN | market-view-ui  |
 | Amazon S3  |  File hosting | market-view-api |
 | Azure | App Hosting | kentico |
+| Papertrail | Logging | market-view-api |
 | Percy/Browserstack | Visual testing | market-view-ui |
 | Sentry  |  Issue tracking|   |
 | [Sonarcloud](https://sonarcloud.io/projects)  | Code analysis  | kentico, market-view-ui  |
