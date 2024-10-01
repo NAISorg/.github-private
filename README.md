@@ -10,7 +10,7 @@
 | Azure | App Hosting | kentico |
 | Papertrail | Logging | market-view-api |
 | Percy/Browserstack | Visual testing | market-view-ui |
-| Sentry  |  Issue tracking|   |
+| Sentry  |  Issue tracking | market-view-ui  |
 | [Sonarcloud](https://sonarcloud.io/projects)  | Code analysis  | kentico, market-view-ui  |
 | Render  |  App hosting | market-view-api, event-view |
 | Rollbar (deprecating in favor of Sentry)   | Issue tracking  |  market-view-api |
